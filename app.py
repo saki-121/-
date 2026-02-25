@@ -1368,7 +1368,7 @@ st.info(
     icon="📩",
 )
 # ▼ Google フォームの URL をここに貼り付けてください
-_FORM_URL = "https://forms.gle/XXXXXXXXXXXXXXXXXX"   # ← 実際の URL に差し替える
+_FORM_URL = "https://forms.gle/eU9PvUYs9ztX8fVM6"   # ← 実際の URL に差し替える
 
 st.link_button(
     "📋 お問い合わせ・お見積りはこちら（Googleフォーム）",
